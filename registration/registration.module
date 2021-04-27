@@ -1,0 +1,13 @@
+<?php
+
+/**
+ * @file
+ * Module file for registration.
+ */
+
+/**
+ * 
+ * A basic implementation of defining a content type through configuration YAML files.
+ * In this demo I create a content type named "Registration" with the required fields
+ * 
+ */

@@ -1,0 +1,8 @@
+name: Registration Content Type
+description: Creates a content type for the registration.
+type: module
+core_version_requirement: ^8 || ^9
+dependencies:
+  - drupal:node
+  - drupal:path
+  - drupal:text

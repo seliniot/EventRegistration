@@ -1,0 +1,6 @@
+config_node_type_example.description:
+  path: '/registration'
+  defaults:
+    _controller: '\Drupal\registration\Controller\NodeRegistrationController::content'
+  requirements:
+    _permission: 'access content'
